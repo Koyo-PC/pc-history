@@ -50,7 +50,8 @@ K林くんPC同好会を設立。<br>
 手前のパソコンでホームページ、オセロの展示をし、右側の仕切り板でポスターを展示した。<br>
 <img src="./Assets/2019_room.jpg" alt="2019年音展の写真" width="50%">
 
-オセロに関してはオセロ全国大会一位の子とそのお父様が来られて、ボコボコにされた。<br>
+オセロに関してはオセロ全国大会一位の子とそのお父様が来られて、ボコボコにされた。((そんなに弱いとは思わないが...))<br>
+https://bjcodes.net:1140/othello.html
 
 写真: 配布した部誌<br>
 <img src="./Assets/2019_bushi.jpeg" alt="2019年音展の部誌" width="50%">
@@ -98,6 +99,7 @@ PC同好会のロゴのデザインはこのロッカーの鍵や物理講義室
 <img src="./Assets/2020_pamphlet.jpeg" alt="2020年音展のパンフレット" width="50%">
 
 この音展では展示スペースを設けず、学校のサーバーを借りてオンラインで発表した。<br>
+https://2020.koyo-onten.net/<br>
 学校のサーバーだけに頼るのはデバッグが困難だった。<br>
 ホームページやストリートビューを校内のQRコードからアクセスして見ていただいた。<br>
 
@@ -152,6 +154,7 @@ webコンに関しては最初の審査まで時間がなかったため、11月
 <img src="./Assets/2021_pamphlet.png" alt="2021年音展のパンフレット" width="50%">
 
 音展のホームページや高校のストリートビューをPC同好会所有のサーバーで公開した。<br>
+https://2021.koyo-onten.net/<br>
 音展の頃は学校で風邪が流行っており、部員の半分はしんどかった。<br>
 
 12月<br>
@@ -199,6 +202,9 @@ Gaia EDR3という星のデータを使って星空の画像を作った。<br>
 PHPを使って掲示板を作った。また通信方式やWebSocketという技術の勉強をした。<br>
 MIDI形式の音楽ファイルを再生するプログラムを書いた。(キーボードが表示される凝ったもの)<br>
 
+[パソコン甲子園モバイル部門](https://pckoshien.u-aizu.ac.jp/mobile/)(以下PCK)に出場することに決める<br>
+「温故知新」のテーマに沿ってアプリを作ることが求められた。
+
 5月<br>
 MikuMikuDanceを使って3Dモデルを動かした。<br>
 node.jsとWebSocketの技術を使って掲示板を作ろうと思った。<br>
@@ -206,16 +212,23 @@ Neovimの学習を始めた。
 
 6月<br>
 105回生は修学旅行で北海道に行った。<br>
+PCKにために流行しているものの盛衰を予測するアプリを作ることにする。<br>
+アプリ名はK林の意向で「TrenDiverse」になった<br>
 
 7月<br>
 夏休みに入った。掲示板を完成させた。<br>
+WebSocketという技術を使っており同時に接続している人にリアルタイムで投稿が送信される(LINEみたいな感じ)
+https://bjcodes.net:1137/wss.html
+
+PCK一次予選(書類選考)を突破<br>
 
 写真: 掲示板のイメージ画像<br>
 <img src="./Assets/2chan.png" alt="2ちゃん" width="50%">
 
 8月<br>
 部員が一名増えた。<br>
-[プログラミング甲子園](https://pckoshien.u-aizu.ac.jp/mobile/)のモバイル部門に出場することになった。ある程度の基礎は完成させた。<br>
+PCK用のアプリ制作を進めた。社畜状態。<br>
+
 VRジェットコースターの制作を始めた。VRゴーグルで流す映像を作った。<br>
 写真: 映像からの切り抜き<br>
 <img src="./Assets/vr_image.png" alt="VR映像" width="50%">
@@ -248,42 +261,87 @@ VRジェットコースターの椅子を動かす回路を作った。<br>
 <img src="./Assets/YIYI.jpg" alt="YIYI" width="50%">
 
 二人で対戦できる早押しゲームを作った<br>
+https://bjcodes.net:1140/gun/wss.html
 
 写真: ゲームの画面<br>
 <img src="./Assets/hayauchi.png" alt="早打ちゲーム" width="30%">
 
 画像をボトルキャップで表現した時の完成イメージを出力するプログラムを書いた<br>
+https://bjcodes.net:1140/mosaic/index.html
 
 写真: 出力例<br>
 <img src="./Assets/mosaic.png" alt="モザイク" width="30%">
 
-2022年のテーマは<br>
+画像を文字で表現して表示するものを作った。<br>
+https://bjcodes.net:1140/mosaic/ascii.html
 
-写真: 2022年の音展パンフレット<br>
-<img src="./Assets/2022_pamphlet.png" alt="2022年音展のパンフレット" width="50%">
+写真: 出力例(部誌の表紙に加工したもの)<br>
+<img src="./Assets/araki.png" alt="ASCII" width="30%">
 
-PC部はホームページ、VRジェットコースター、掲示板、ハッキング講座、部誌を発表。
-
+2022年音展のテーマは「宴JOY」<br>
+PC部はホームページ、VRジェットコースター、掲示板、ハッキング講座、部誌を発表。<br>
 音展の公式ホームページはPC同好会所有のサーバーで公開した。<br>
+https://2022.koyo-onten.net/
 
 写真: ホーム画面<br>
 <img src="./Assets/homepage.png" alt="ホームページ" width="50%">
 
 VRジェットコースターは予想以上に繁盛した。<br>
 
-写真: 様子<br>
 <table>
     <tr>
         <td><img src="./Assets/VR_1.jpg" alt="VR_1" width="100%"></td>
         <td><img src="./Assets/VR_2.jpg" alt="VR_2" width="100%"></td>
+    </tr>
+    <tr>
         <td><img src="./Assets/VR_3.jpg" alt="VR_3" width="100%"></td>
+        <td><img src="./Assets/VR_4.jpg" alt="VR_4" width="100%"></td>
     </tr>
 </table>
 
 ハッキング講座を物理講義室で行った。<br>
 
-写真: 様子<br>
 <img src="./Assets/ZOI_speech.jpg" alt="ハッキング講座" width="50%">
+
+10月<br>
+急いでPCKの準備をする。
+
+11月<br>
+PCKのアプリが完成。Twitter APIでTwitterでのトレンドを予測し、過去の膨大なトレンドデータから今後の話題度の推移を予測する。<br>
+~~イー○ンマスクのせいでもうTwitter APIは無料で使えない~~
+
+写真: (左)濃い赤が現在までの話題度の推移、薄い赤が今後の予測 (右)約一日後に確認した時のグラフ 流行の終了の予測精度は高い<br>
+<table>
+    <tr>
+        <td><img src="./Assets/pck_7.png" alt="pck_7" width="100%"></td>
+        <td><img src="./Assets/pck_8.png" alt="pck_8" width="100%"></td>
+    </tr>
+</table>
+
+[プレゼンの様子(YouTube)](https://www.youtube.com/watch?v=MlwzOW7JC8A&list=PLQCCg6JMgI3SeIY2n30lF4eyb-hpykp4A&index=8&ab_channel=%E7%94%B2%E9%99%BD%E5%AD%A6%E9%99%A2PC%E5%90%8C%E5%A5%BD%E4%BC%9A)<br>
+[デモセッションの様子(YouTube)](https://www.youtube.com/watch?v=KfAA74LdCc0&list=PLQCCg6JMgI3SeIY2n30lF4eyb-hpykp4A&index=9&ab_channel=%E7%94%B2%E9%99%BD%E5%AD%A6%E9%99%A2PC%E5%90%8C%E5%A5%BD%E4%BC%9A)<br>
+
+結果「バンタン賞(企業賞)」と「ベストデザイン賞を受賞」。商品は奨学金計15万(一人5万)と各人にペンタブ、菓子詰め合わせ、桃ジュース。<br>
+
+<table>
+    <tr>
+        <td><img src="./Assets/pck_1.png" alt="pck_1" width="100%"></td>
+        <td><img src="./Assets/pck_2.png" alt="pck_2" width="100%"></td>
+    </tr>
+    <tr>
+        <td><img src="./Assets/pck_3.png" alt="pck_3" width="100%"></td>
+        <td><img src="./Assets/pck_4.png" alt="pck_4" width="100%"></td>
+    </tr>
+    <tr>
+        <td><img src="./Assets/pck_5.png" alt="pck_5" width="100%"></td>
+        <td><img src="./Assets/pck_6.png" alt="pck_6" width="100%"></td>
+    </tr>
+</table>
+
+
+
+
+
 
 
 
