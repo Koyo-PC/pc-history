@@ -8,6 +8,13 @@
 形式<br>
 ・西暦<br>
 ・説明<br>
+
+<style>
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
 ## 2019年
 
 1月<br>
@@ -34,11 +41,11 @@ K林くんPC同好会を設立。<br>
 
 写真: 2019年の音展パンフレット<br>
 2019年のテーマは「船出」で、中学では珍しい二文字だった。<br>
-<span style="display: inline-block; transform: skewX(-25deg);">&nbsp;このパンフレットは逆から読むと「船出」が「甲陽」になるというすごいデザインとなっている。<br>
+<span style="display: inline-block; transform: skewX(-25deg);">このパンフレットは逆から読むと「船出」が「甲陽」になるというすごいデザインとなっている。<br>
 <table>
     <tr>
-        <td><img src="./Assets/2019_pamphlet.jpeg" alt="2019年音展のパンフレット" width="100%"></td>
-        <td><img src="./Assets/2019_pamphlet_upside_down.jpeg" alt="2019年音展のパンフレット_逆" width="100%"></td>
+        <td><img src="./Assets/2019_pamphlet.jpeg" alt="2019年音展のパンフレット"></td>
+        <td><img src="./Assets/2019_pamphlet_upside_down.jpeg" alt="2019年音展のパンフレット_逆"></td>
     </tr>
 </table>
 
@@ -169,8 +176,8 @@ https://2021.koyo-onten.net/<br>
 写真 右:理化学研究所入口 左: 計算結果を表にしたもの<br>
 <table>
     <tr>
-        <td><img src="./Assets/rikagaku.jpeg" alt="理化学研究所" width="100%"></td>
-        <td><img src="./Assets/fugaku_output.jpg" alt="素数ゼミのグラフ" width="100%"></td>
+        <td><img src="./Assets/rikagaku.jpeg" alt="理化学研究所"></td>
+        <td><img src="./Assets/fugaku_output.jpg" alt="素数ゼミのグラフ"></td>
     </tr>
 </table>
 
@@ -187,7 +194,7 @@ PC同好会はwebコンの審査を次々と通過していった。<br>
 ある部員はRaspberry Pi(先述)が家にあるのを思い出し、発掘して使い出した。<br>
 
 写真: そのRaspberry Pi(小学生の時に買ったもの)<br>
-<img src="./Assets/bj_raspi.jpeg" alt="bjのラズパイ" width="30%">
+<img src="./Assets/bj_raspi.jpeg" alt="bjのラズパイ" width="50%">
 
 音展のために買い替えようと思ったが半導体不足で新しいものが販売されておらず買えなかった。<br>
 
@@ -202,7 +209,7 @@ Gaia EDR3という星のデータを使って星空の画像を作った。<br>
 PHPを使って掲示板を作った。また通信方式やWebSocketという技術の勉強をした。<br>
 MIDI形式の音楽ファイルを再生するプログラムを書いた。(キーボードが表示される凝ったもの)<br>
 
-[パソコン甲子園モバイル部門](https://pckoshien.u-aizu.ac.jp/mobile/)(以下PCK)に出場することに決める<br>
+[パソコン甲子園モバイル部門](https://pckoshien.u-aizu.ac.jp/mobile/)(以下PCK)に出場することに決める。(105回生×3名)<br>
 「温故知新」のテーマに沿ってアプリを作ることが求められた。
 
 5月<br>
@@ -238,8 +245,8 @@ PC同好会公式Tシャツを作った。
 写真 右:シャツの前面 左: シャツの後面<br>
 <table>
     <tr>
-        <td><img src="./Assets/shirt_front.jpg" alt="シャツの前面" width="100%"></td>
-        <td><img src="./Assets/shirt_back.jpg" alt="シャツの後面" width="100%"></td>
+        <td><img src="./Assets/shirt_front.jpg" alt="シャツの前面"></td>
+        <td><img src="./Assets/shirt_back.jpg" alt="シャツの後面"></td>
     </tr>
 </table>
 全面の「PC」は実行できるコードでできている。<br>
@@ -264,19 +271,19 @@ VRジェットコースターの椅子を動かす回路を作った。<br>
 https://bjcodes.net:1140/gun/wss.html
 
 写真: ゲームの画面<br>
-<img src="./Assets/hayauchi.png" alt="早打ちゲーム" width="30%">
+<img src="./Assets/hayauchi.png" alt="早打ちゲーム" width="50%">
 
 画像をボトルキャップで表現した時の完成イメージを出力するプログラムを書いた<br>
 https://bjcodes.net:1140/mosaic/index.html
 
 写真: 出力例<br>
-<img src="./Assets/mosaic.png" alt="モザイク" width="30%">
+<img src="./Assets/mosaic.png" alt="モザイク" width="50%">
 
 画像を文字で表現して表示するものを作った。<br>
 https://bjcodes.net:1140/mosaic/ascii.html
 
 写真: 出力例(部誌の表紙に加工したもの)<br>
-<img src="./Assets/araki.png" alt="ASCII" width="30%">
+<img src="./Assets/araki.png" alt="ASCII" width="50%">
 
 2022年音展のテーマは「宴JOY」<br>
 PC部はホームページ、VRジェットコースター、掲示板、ハッキング講座、部誌を発表。<br>
@@ -290,12 +297,12 @@ VRジェットコースターは予想以上に繁盛した。<br>
 
 <table>
     <tr>
-        <td><img src="./Assets/VR_1.jpg" alt="VR_1" width="100%"></td>
-        <td><img src="./Assets/VR_2.jpg" alt="VR_2" width="100%"></td>
+        <td><img src="./Assets/VR_1.jpg" alt="VR_1"></td>
+        <td><img src="./Assets/VR_2.jpg" alt="VR_2"></td>
     </tr>
     <tr>
-        <td><img src="./Assets/VR_3.jpg" alt="VR_3" width="100%"></td>
-        <td><img src="./Assets/VR_4.jpg" alt="VR_4" width="100%"></td>
+        <td><img src="./Assets/VR_3.jpg" alt="VR_3"></td>
+        <td><img src="./Assets/VR_4.jpg" alt="VR_4"></td>
     </tr>
 </table>
 
@@ -313,8 +320,8 @@ PCKのアプリが完成。Twitter APIでTwitterでのトレンドを予測し�
 写真: (左)濃い赤が現在までの話題度の推移、薄い赤が今後の予測 (右)約一日後に確認した時のグラフ 流行の終了の予測精度は高い<br>
 <table>
     <tr>
-        <td><img src="./Assets/pck_7.png" alt="pck_7" width="100%"></td>
-        <td><img src="./Assets/pck_8.png" alt="pck_8" width="100%"></td>
+        <td><img src="./Assets/pck_7.png" alt="pck_7"></td>
+        <td><img src="./Assets/pck_8.png" alt="pck_8"></td>
     </tr>
 </table>
 
@@ -325,18 +332,50 @@ PCKのアプリが完成。Twitter APIでTwitterでのトレンドを予測し�
 
 <table>
     <tr>
-        <td><img src="./Assets/pck_1.png" alt="pck_1" width="100%"></td>
-        <td><img src="./Assets/pck_2.png" alt="pck_2" width="100%"></td>
+        <td><img src="./Assets/pck_2.png" alt="pck_2"></td>
+        <td><img src="./Assets/pck_1.png" alt="pck_1"></td>
     </tr>
     <tr>
-        <td><img src="./Assets/pck_3.png" alt="pck_3" width="100%"></td>
-        <td><img src="./Assets/pck_4.png" alt="pck_4" width="100%"></td>
+        <td><img src="./Assets/pck_3.png" alt="pck_3"></td>
+        <td><img src="./Assets/pck_4.png" alt="pck_4"></td>
     </tr>
     <tr>
-        <td><img src="./Assets/pck_5.png" alt="pck_5" width="100%"></td>
-        <td><img src="./Assets/pck_6.png" alt="pck_6" width="100%"></td>
+        <td><img src="./Assets/pck_5.png" alt="pck_5"></td>
+        <td><img src="./Assets/pck_6.png" alt="pck_6"></td>
     </tr>
 </table>
+
+PCK後は競プロに精進した。<br>
+
+12月<br>
+この時点でPC同好会は105回生(当時高2)+106回生(当時高1)ごく少数で構成されており深刻に消滅が懸念される。<br>
+積極的に勧誘をする方針に変わった。<br>
+
+2023年<br>
+
+3月<br>
+勧誘用のポスターを作成<br>
+
+4月<br>
+多くの107回生が入部し、部員数は30人を超える。<br>
+105回生はプログラミング教育に当たる。<br>
+部員が増えたので部会を開くことにする<br>
+
+5月<br>
+「速読英単語」という英語教材の音声がブラウザで配布されているだけで速度調整が細かくできないことに怒り、自分で再生ツールを作成<br>
+Raspberry Piを買い替え、サーバーをDockerを使って管理するようにした。<br>
+
+6月<br>
+部員をチームに分け、音展の役割分担をする<br>
+<img src="./Assets/onten_team.jpg" alt="役割分担">
+
+8月<br>
+学校上空にドローンを飛ばし校舎を空撮<br>
+VRジェットコースターに使われる校舎の3Dモデルを改良する。<br>
+
+9月<br>
+音展のためにホームページを制作<br>
+PCKプログラミング部門に出場する。(105回生×1+107回生×1)<br>
 
 
 
