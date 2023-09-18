@@ -48,12 +48,16 @@ K林くんPC同好会を設立。<br>
 学校のホームページと同じサーバーに公開することを願い出たが生徒の写真があり問題だという理由で拒否された。教室内のパソコンに表示することでホームページの展示をした。<br>
 ホームページでは他の団体の展示の紹介や準備中の写真などを掲載した。<br>
 
+https://2019.koyo-onten.net/<br>
+写真: ホーム画面<br>
+<img src="./Assets/funade.png" alt="船出" width="80%">
+
 写真: PC同好会準備中の様子<br>
 手前のパソコンでホームページ、オセロの展示をし、右側の仕切り板でポスターを展示した。<br>
 <img src="./Assets/2019_room.jpg" alt="2019年音展の写真" width="50%">
 
 オセロに関してはオセロ全国大会一位の子とそのお父様が来られて、ボコボコにされた。((そんなに弱いとは思わないが...))<br>
-https://bjcodes.net:1140/othello.html
+https://bjcodes.net:1140/othello.html<br>
 
 写真: 配布した部誌<br>
 <img src="./Assets/2019_bushi.jpeg" alt="2019年音展の部誌" width="50%">
@@ -108,6 +112,10 @@ PC同好会のロゴのデザインはこのロッカーの鍵や物理講義室
 
 この音展では展示スペースを設けず、学校のサーバーを借りてオンラインで発表した。<br>
 https://2020.koyo-onten.net/<br>
+
+写真: ホーム画面<br>
+<img src="./Assets/michi.png" alt="michi" width="80%">
+
 学校のサーバーだけに頼るのはデバッグが困難だった。<br>
 ホームページやストリートビューを校内のQRコードからアクセスして見ていただいた。<br>
 
@@ -149,6 +157,10 @@ Vue.jsというものの学習を始めた。<br>
 ベクトルを使ってお絵描きができるプログラムを書いた。<br>
 ある部員は[ウェブデザイン技能検定](https://www.webdesign.gr.jp/)(3級)に合格した。<br>
 webコンのためにMarkdownをHTMLに変換するプログラムを書いた。<br>
+10月14日に兵庫県加東市にあるパナソニックエコテクノロジーセンター（PETEC）に見学に行った。<br>
+
+写真: 見学の様子<br>
+<img src="./Assets/petec.png" alt="petec" width="80%">
 
 11月<br>
 音展のホームページやwebコンのための作品作りをした。<br>
@@ -163,6 +175,12 @@ webコンに関しては最初の審査まで時間がなかったため、11月
 
 音展のホームページや高校のストリートビューをPC同好会所有のサーバーで公開した。<br>
 https://2021.koyo-onten.net/<br>
+
+写真: ホーム画面<br>
+<img src="./Assets/otoko.png" alt="otoko" width="80%">
+
+2022年は不必要という理由で予算請求をしなかった。
+
 音展の頃は学校で風邪が流行っており、部員の半分はしんどかった。<br>
 
 12月<br>
@@ -194,15 +212,27 @@ PC同好会はwebコンの審査を次々と通過していった。<br>
 2月<br>
 ある部員はRaspberry Pi(先述)が家にあるのを思い出し、発掘して使い出した。<br>
 
-写真: そのRaspberry Pi(小学生の時に買ったもの)<br>
+写真: そのRaspberry Pi(小学生の時に買ったもの、Raspberry Pi 1B)<br>
 <img src="./Assets/bj_raspi.jpeg" alt="bjのラズパイ" width="50%">
 
 音展のために買い替えようと思ったが半導体不足で新しいものが販売されておらず買えなかった。<br>
 
 3月<br>
 webコンで<span style="color:orange;">金賞</span>をとった。<br>
-作品 [右ポケットの中の資源を求めて](https://contest.japias.jp/tqj24/240166C/)<br>
+
+写真: ホーム画面<br>
+<img src="./Assets/webcon_page.png" alt="webcon" width="80%">
+
+作品 [右ポケットの中の資源を求めて(大会所有URL)](https://contest.japias.jp/tqj24/240166C/) [予備用リンク(GitHub)](https://koyo-pc.github.io/Web-Contest/#)<br>
+
+作品と共に提出した動画
+<video src="./Assets/webcon.mp4" controls width="80%"></video>
+
 校長先生に直接表彰していただいた。<br>
+
+写真: 表彰状<br>
+<img src="./Assets/webcon_cert.jpg" alt="webコン表彰状" width="50%">
+
 ボディトラッカーを自作しようとした。<br>
 Gaia EDR3という星のデータを使って星空の画像を作った。<br>
 
@@ -222,12 +252,12 @@ Neovimの学習を始めた。
 105回生は修学旅行で北海道に行った。<br>
 PCKにために流行しているものの盛衰を予測するアプリを作ることにする。<br>
 アプリ名はK林の意向で「TrenDiverse」になった<br>
-チーム名もK林の意向で「Sprouts」になった。もやし三人組だかららしい。<br>
+チーム名もK林の意向で「sprouts」になった。もやし三人組だかららしい。<br>
 
 7月<br>
 夏休みに入った。掲示板を完成させた。<br>
 WebSocketという技術を使っており同時に接続している人にリアルタイムで投稿が送信される(LINEみたいな感じ)
-https://bjcodes.net:1137/wss.html
+https://bjcodes.net:1137/wss.html<br>
 
 PCK一次予選(書類選考)を突破<br>
 
@@ -241,6 +271,9 @@ PCK用のアプリ制作を進めた。社畜状態。<br>
 VRジェットコースターの制作を始めた。VRゴーグルで流す映像を作った。<br>
 写真: 映像からの切り抜き<br>
 <img src="./Assets/vr_image.png" alt="VR映像" width="50%">
+
+[実際の映像はこちら(YouTube)](https://www.youtube.com/watch?v=eYh30M4UFek&ab_channel=%E7%94%B2%E9%99%BD%E5%AD%A6%E9%99%A2PC%E5%90%8C%E5%A5%BD%E4%BC%9A)<br>
+没入感はユニバのものよりすごいらしい。<br>
 
 PC同好会公式Tシャツを作った。
 
@@ -270,19 +303,19 @@ VRジェットコースターの椅子を動かす回路を作った。<br>
 <img src="./Assets/YIYI.jpg" alt="YIYI" width="50%">
 
 二人で対戦できる早押しゲームを作った<br>
-https://bjcodes.net:1140/gun/wss.html
+https://bjcodes.net:1140/gun/wss.html<br>
 
 写真: ゲームの画面<br>
 <img src="./Assets/hayauchi.png" alt="早打ちゲーム" width="50%">
 
 画像をボトルキャップで表現した時の完成イメージを出力するプログラムを書いた<br>
-https://bjcodes.net:1140/mosaic/index.html
+https://bjcodes.net:1140/mosaic/index.html<br>
 
 写真: 出力例<br>
 <img src="./Assets/mosaic.png" alt="モザイク" width="50%">
 
 画像を文字で表現して表示するものを作った。<br>
-https://bjcodes.net:1140/mosaic/ascii.html
+https://bjcodes.net:1140/mosaic/ascii.html<br>
 
 写真: 出力例(部誌の表紙に加工したもの)<br>
 <img src="./Assets/araki.png" alt="ASCII" width="50%">
@@ -290,10 +323,10 @@ https://bjcodes.net:1140/mosaic/ascii.html
 2022年音展のテーマは「宴JOY」<br>
 PC部はホームページ、VRジェットコースター、掲示板、ハッキング講座、部誌を発表。<br>
 音展の公式ホームページはPC同好会所有のサーバーで公開した。<br>
-https://2022.koyo-onten.net/
+https://2022.koyo-onten.net/<br>
 
 写真: ホーム画面<br>
-<img src="./Assets/homepage.png" alt="ホームページ" width="50%">
+<img src="./Assets/enjoy.png" alt="ホームページ" width="80%">
 
 VRジェットコースターは予想以上に繁盛した。<br>
 
@@ -311,6 +344,18 @@ VRジェットコースターは予想以上に繁盛した。<br>
 ハッキング講座を物理講義室で行った。<br>
 
 <img src="./Assets/ZOI_speech.jpg" alt="ハッキング講座" width="50%">
+
+2022年はパンフレットも制作した<br>
+
+予算はPC同好会とVRジェットコースター(PC同好会とは独立した団体にした)合わせて10万超をもらう<br>
+
+写真: VRジェットコースターの詳細<br>
+<table>
+    <tr>
+        <td><img src="./Assets/yosan_2022_1.jpg" alt="yosan_2022_1"></td>
+        <td><img src="./Assets/yosan_2022_2.jpg" alt="yosan_2022_2"></td>
+    </tr>
+</table>
 
 10月<br>
 急いでPCKの準備をする。
@@ -374,7 +419,7 @@ AtCoderの精進を促すための通知Botを制作(105)<br>
 
 6月<br>
 部員をチームに分け、音展の役割分担をする(106)<br>
-<img src="./Assets/onten_team.jpg" alt="役割分担">
+<img src="./Assets/onten_team.jpg" alt="役割分担" width="50%">
 
 8月<br>
 学校上空にドローンを飛ばし校舎を空撮(107)<br>
@@ -387,10 +432,31 @@ VRジェットコースターに使われる校舎の3Dモデルを改良する�
 9月<br>
 音展のためにホームページを制作(106×1+107×5)<br>
 音展用にARによる案内ツールを作ろうとする(107)<br>
-PCKプログラミング部門に出場する。(105×1+107×1) チーム名は「Sprouts」を引き継ぐ。<br>
+PCKプログラミング部門に出場する。(105×1+107×1) チーム名は「sprouts」を引き継ぐ。<br>
 
 写真: 予選の様子<br>
-<img src="./Assets/PCK_yosen.jpg" alt="PCK予選">
+<img src="./Assets/PCK_yosen.jpg" alt="PCK予選" width="80%">
+
+2023年音展のテーマは「New ERA」<br>
+
+写真: ホームページの写真<br>
+<img src="./Assets/nera.png" alt="nera" width="80%">
+https://2023.koyo-onten.net/<br>
+2023年はRubyをベースに制作した。<br>
+
+予算は28100円もらった<br>
+
+写真: 2023年度予算金額の表<br>
+<img src="./Assets/yosan_2023.jpg" alt="2023_yosan" width="80%">
+
+VRジェットコースターはモデルが改良されとてもリアルになった。またコースも変更された。<br>
+
+写真: モデルの写真<br>
+<img src="./Assets/vr_model_1.png" alt="model_1" width="80%">
+<img src="./Assets/vr_model_2.png" alt="model_2" width="80%">
+
+
+
 
 
 
