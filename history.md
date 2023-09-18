@@ -36,7 +36,7 @@ K林くんPC同好会を設立。<br>
 
 写真: 2019年の音展パンフレット(PC部作でない)<br>
 2019年のテーマは「船出」で、中学では珍しい二文字だった。<br>
-<span style="display: inline-block; transform: skewX(-25deg);">このパンフレットは逆から読むと「船出」が「甲陽」になるというすごいデザインとなっている。<br>
+<span style="display: inline-block; transform: skewX(-25deg);">このパンフレットは逆から読むと「船出」が「甲陽」になるというすごいデザインとなっている。</span><br>
 <table>
     <tr>
         <td><img src="./Assets/2019_pamphlet.jpeg" alt="2019年音展のパンフレット"></td>
@@ -47,8 +47,8 @@ K林くんPC同好会を設立。<br>
 教室の半分を借り、プログラミング言語についてのポスター数枚、ホームページ、オセロ(コンピューターと対戦)を展示した。<br>
 学校のホームページと同じサーバーに公開することを願い出たが生徒の写真があり問題だという理由で却下された。教室内のパソコン(奨学金でもらったもの)に表示することでホームページの展示をした。<br>
 ホームページでは他の団体の展示の紹介や準備中の写真などを掲載した。<br>
+[リンクはこちら](https://2019.koyo-onten.net/)<br>
 
-https://2019.koyo-onten.net/<br>
 写真: ホーム画面<br>
 <img src="./Assets/funade.png" alt="船出" width="80%">
 
@@ -57,7 +57,7 @@ https://2019.koyo-onten.net/<br>
 <img src="./Assets/2019_room.jpg" alt="2019年音展の写真" width="50%">
 
 オセロに関してはオセロ全国大会一位の子とそのお父様が来られて、ボコボコにされた。~~そんなに弱いとは思わないが...~~<br>
-https://bjcodes.net:1140/othello.html<br>
+[リンクはこちら](https://bjcodes.net:1140/othello.html)<br>
 
 写真: 配布した部誌<br>
 <img src="./Assets/2019_bushi.jpeg" alt="2019年音展の部誌" width="50%">
@@ -111,7 +111,7 @@ PC同好会のロゴのデザインはこのロッカーの鍵や物理講義室
 <img src="./Assets/2020_pamphlet.jpeg" alt="2020年音展のパンフレット" width="50%">
 
 この音展では展示スペースを設けず、学校のサーバーを借りてオンラインで発表した。<br>
-https://2020.koyo-onten.net/<br>
+[リンクはこちら](https://2020.koyo-onten.net/)<br>
 
 写真: ホーム画面<br>
 <img src="./Assets/michi.png" alt="michi" width="80%">
@@ -120,8 +120,8 @@ https://2020.koyo-onten.net/<br>
 ホームページやストリートビューを校内のQRコードからアクセスして見ていただいた。<br>
 
 以下ストリートビューのリンク<br>
-https://2020.koyo-onten.net/Map.html (地図上の青い四角を押して開始)<br>
-https://2020.koyo-onten.net/Streetview.html?num=25 (光庭)<br>
+[地図画面へのリンク](https://2020.koyo-onten.net/Map.html) (地図上の青い四角を押して開始)<br>
+[光庭へのリンク](https://2020.koyo-onten.net/Streetview.html?num=25)<br>
 
 写真: 光庭での画面<br>
 <img src="./Assets/street_junior.png" alt="street_junior" width="80%">
@@ -182,7 +182,7 @@ webコンに関しては最初の審査まで時間がなかったため、11月
 <img src="./Assets/2021_pamphlet.png" alt="2021年音展のパンフレット" width="50%">
 
 音展のホームページや高校のストリートビューをPC同好会所有のサーバーで公開した。<br>
-https://2021.koyo-onten.net/<br>
+[リンクはこちら](https://2021.koyo-onten.net/)<br>
 
 写真: ホーム画面<br>
 <img src="./Assets/otoko.png" alt="otoko" width="80%">
@@ -233,8 +233,10 @@ webコンで<span style="color:orange;">金賞</span>をとった。<br>
 
 作品 [右ポケットの中の資源を求めて(大会所有URL)](https://contest.japias.jp/tqj24/240166C/) [予備用リンク(GitHub)](https://koyo-pc.github.io/Web-Contest/#)<br>
 
-作品と共に提出した動画
-<video src="./Assets/webcon.mp4" controls width="80%"></video>
+作品と共に提出した動画<br>
+<video src="./Assets/webcon.mp4" controls width="50%"></video>
+
+[見られない方用のYoutubeリンク](https://www.youtube.com/watch?v=vMKq8eMK_zM&ab_channel=%E7%94%B2%E9%99%BD%E5%AD%A6%E9%99%A2PC%E5%90%8C%E5%A5%BD%E4%BC%9A)
 
 校長先生に直接表彰していただいた。<br>
 
@@ -265,11 +267,11 @@ PCKのために流行しているものの盛衰を予測するアプリを作�
 7月<br>
 夏休みに入った。掲示板を完成させた。<br>
 WebSocketという技術を使っており同時に接続している人にリアルタイムで投稿が送信される(LINEみたいな感じ)
-https://bjcodes.net:1137/wss.html<br>
+[リンクはこちら](https://bjcodes.net:1137/wss.html)<br>
 
 PCK一次予選(書類選考)を突破<br>
 
-写真: 掲示板のイメージ画像<br>
+写真: 掲示板の画像<br>
 <img src="./Assets/2chan.png" alt="2ちゃん" width="50%">
 
 8月<br>
@@ -311,19 +313,19 @@ VRジェットコースターの椅子を動かす回路を作った。<br>
 <img src="./Assets/YIYI.jpg" alt="YIYI" width="50%">
 
 二人で対戦できる早押しゲームを作った<br>
-https://bjcodes.net:1140/gun/wss.html<br>
+[リンクはこちら](https://bjcodes.net:1140/gun/wss.html)<br>
 
 写真: ゲームの画面<br>
 <img src="./Assets/hayauchi.png" alt="早打ちゲーム" width="50%">
 
 画像をボトルキャップで表現した時の完成イメージを出力するプログラムを書いた<br>
-https://bjcodes.net:1140/mosaic/index.html<br>
+[リンクはこちら](https://bjcodes.net:1140/mosaic/index.html)<br>
 
 写真: 出力例<br>
 <img src="./Assets/mosaic.png" alt="モザイク" width="50%">
 
 画像を文字で表現して表示するものを作った。<br>
-https://bjcodes.net:1140/mosaic/ascii.html<br>
+[リンクはこちら](https://bjcodes.net:1140/mosaic/ascii.html)<br>
 
 写真: 出力例(部誌の表紙に加工したもの)<br>
 <img src="./Assets/araki.png" alt="ASCII" width="50%">
@@ -331,7 +333,7 @@ https://bjcodes.net:1140/mosaic/ascii.html<br>
 2022年音展のテーマは「宴JOY」だった。<br>
 PC部はホームページ、VRジェットコースター、掲示板、ハッキング講座、部誌を発表。<br>
 音展の公式ホームページはPC同好会所有のサーバーで公開した。<br>
-https://2022.koyo-onten.net/<br>
+[リンクはこちら](https://2022.koyo-onten.net/)<br>
 
 写真: ホーム画面<br>
 <img src="./Assets/enjoy.png" alt="ホームページ" width="80%">
@@ -375,8 +377,8 @@ PCKのアプリが完成。Twitter APIでTwitterでのトレンドを予測し�
 写真: (左)濃い赤が現在までの話題度の推移、薄い赤が今後の予測 (右)約一日後に確認した時のグラフ 流行の終了の予測精度は高い<br>
 <table>
     <tr>
-        <td><img src="./Assets/pck_7.png" alt="pck_7"></td>
-        <td><img src="./Assets/pck_8.png" alt="pck_8"></td>
+        <td><img src="./Assets/pck_7.png" alt="pck_7" width="80%"></td>
+        <td><img src="./Assets/pck_8.png" alt="pck_8" width="80%"></td>
     </tr>
 </table>
 
@@ -452,12 +454,12 @@ PCKプログラミング部門に出場する。(105×1+107×1) チーム名は�
 写真: ホームページの写真<br>
 <img src="./Assets/nera.png" alt="nera" width="80%">
 
-https://2023.koyo-onten.net/<br>
+[リンクはこちら](https://2023.koyo-onten.net/)<br>
 
 予算は28100円をもらった。<br>
 
 写真: 2023年度予算金額の表<br>
-<img src="./Assets/yosan_2023.jpg" alt="2023_yosan" width="80%">
+<img src="./Assets/yosan_2023.jpg" alt="2023_yosan" width="40%">
 
 VRジェットコースターはモデルが改良されとてもリアルになった。またコースも変更された。<br>
 
