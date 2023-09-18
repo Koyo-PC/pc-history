@@ -15,11 +15,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3.0.2
-      - name: Install Node 16
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-          cache: npm
+      - name: Install Nodejs
+        run: sudo apt install nodejs \
+          | sudo apt install npm
       - name: Install md-to-pdf
         run: npm i -g md-to-pdf
       - name: Generate PDF
