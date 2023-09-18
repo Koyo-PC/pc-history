@@ -414,6 +414,7 @@ PCK後は競プロが流行った。<br>
 
 3月<br>
 勧誘用のポスターを作成<br>
+<img src="./Assets/poster.jpg" alt="ポスター" width="50%">
 
 4月<br>
 多くの107回生が入部し、部員数は30人を超える。<br>
@@ -463,25 +464,3 @@ VRジェットコースターはモデルが改良されとてもリアルにな
 写真: モデルの写真<br>
 <img src="./Assets/vr_model_1.png" alt="model_1" width="80%">
 <img src="./Assets/vr_model_2.png" alt="model_2" width="80%">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
