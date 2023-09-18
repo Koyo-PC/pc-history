@@ -21,7 +21,7 @@ jobs:
       - name: Install md-to-pdf
         run: npm i -g md-to-pdf
       - name: Generate PDF
-        run: npx md-to-pdf history.pdf
+        run: npx md-to-pdf history.md
       - name: Upload PDF
         uses: actions/upload-artifact@v3
         with:
