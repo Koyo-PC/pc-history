@@ -20,6 +20,8 @@ jobs:
           | sudo apt install npm
       - name: Install md-to-pdf
         run: npm i -g md-to-pdf
+      - name: Install Japanese Font
+        run: sudo apt install fonts-noto
       - name: Generate PDF
         run: npx md-to-pdf history.md
       - name: Upload PDF
